@@ -1,3 +1,5 @@
+<img src="https://corethreat.net/ct_logo_big.png" height="150px"> 
+
 # Core|Threat Fileinfo
 
 **Description:**
