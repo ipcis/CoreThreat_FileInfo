@@ -1,6 +1,6 @@
 <img src="https://corethreat.net/ct_logo_big.png" height="150px"> 
 
-# Core|Threat Fileinfo
+# Core|Threat FileInfo
 
 **Description:**
 Core|Threat Fileinfo is a simple PyQt5-based application that provides basic file information, including file path, MD5 hash, file type, and file size. The application allows users to drag and drop files onto the window, instantly displaying relevant details.
